@@ -1,0 +1,4 @@
+﻿  CBanco.cpp
+D:\MFCApplication3\Tetris\Tetris\Tetris\CQuancoFactory.h(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MFCApplication3\Tetris\Tetris\Tetris\CQuancoFactory.h(50): warning C4715: 'CQuancoFactory::create_quanco': not all control paths return a value
+  Tetris.vcxproj -> D:\MFCApplication3\Tetris\Tetris\x64\Debug\Tetris.exe
